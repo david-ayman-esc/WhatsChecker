@@ -15,7 +15,7 @@ $ pip install requests
 ```
 - Create [checkwa Account](https://checkwa.online/wp/register/) 
 - Get Your Username and API Key from [Here](https://checkwa.online/wp/user/)
-- Edit Acc.txt with your Username and API Key
+- Edit Acc.txt with your Username and API Key.
 
 ### Usage
 
